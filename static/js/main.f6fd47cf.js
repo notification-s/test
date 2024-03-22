@@ -18580,7 +18580,7 @@ n.m = e,
                                 })]
                             }), (0, b.jsxs)("ul", {
                                 children: [(0, b.jsx)("li", {
-                                    children: "\xa9 2022 Meta"
+                                    children: "\xa9 2024 Meta"
                                 }), (0, b.jsx)("li", {
                                     children: "About"
                                 }), (0, b.jsx)("li", {
